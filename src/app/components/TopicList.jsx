@@ -50,4 +50,8 @@ const TopicList = async () => {
     )
 }
 
+TopicList.getInitialProps = async () => ({
+    fetchCache: 'skip',
+});
+
 export default TopicList;
