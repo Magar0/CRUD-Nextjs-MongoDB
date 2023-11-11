@@ -51,5 +51,3 @@ const TopicList = async () => {
 }
 
 export default TopicList;
-
-export const dynamic = 'force-dynamic';
