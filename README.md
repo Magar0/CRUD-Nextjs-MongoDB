@@ -19,3 +19,4 @@
 5. Confirm function added in Delete All button.
 
    <img src="https://github.com/Magar0/CRUD-Nextjs-MongoDB/assets/35245789/b46e29f5-3fe0-4d57-a45c-f0eb7eb76c1e" height="400">
+
